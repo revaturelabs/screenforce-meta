@@ -53,9 +53,6 @@ hs_err_pid*
 /.recommenders/
 
 #Meta projects
-caliber-config
-caliber-eureka
-caliber-zuul
 screening-admin-service
 tech-screening-service
 screening-report-service
