@@ -5,6 +5,7 @@
     "caliber-zuul": "https://github.com/revaturelabs/caliber-zuul.git",
     "screening-admin-service": "https://github.com/revaturelabs/screening-admin-service.git",
     "tech-screening-service": "https://github.com/revaturelabs/tech-screening-service.git",
+    "screening-report-service": "https://github.com/revaturelabs/screening-report-service.git",
     "screening-ui": "https://github.com/revaturelabs/screening-ui.git"
   }
 }

@@ -22,11 +22,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /.metadata/
-caliber-config
-caliber-eureka
-caliber-zuul
-screening-admin-service
-tech-screening-service
 
 /Servers/
 /RemoteSystemsTempFiles/
@@ -56,3 +51,13 @@ tech-screening-service
 #Mac
 .DS_Store
 /.recommenders/
+
+#Meta projects
+caliber-config
+caliber-eureka
+caliber-zuul
+screening-admin-service
+tech-screening-service
+screening-report-service
+screening-ui
+
