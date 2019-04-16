@@ -3,6 +3,9 @@
     "screening-admin-service": "https://github.com/revaturelabs/screening-admin-service.git",
     "tech-screening-service": "https://github.com/revaturelabs/tech-screening-service.git",
     "screening-report-service": "https://github.com/revaturelabs/screening-report-service.git",
-    "screening-ui": "https://github.com/revaturelabs/screening-ui.git"
+    "screening-ui": "https://github.com/revaturelabs/screening-ui.git",
+    "screenforce-gateway": "https://github.com/revaturelabs/screenforce-gateway",
+    "screenforce-discovery": "https://github.com/revaturelabs/screenforce-discovery",
+    "screenforce-config": "https://github.com/revaturelabs/screenforce-config"
   }
 }
