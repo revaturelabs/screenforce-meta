@@ -57,4 +57,6 @@ screening-admin-service
 tech-screening-service
 screening-report-service
 screening-ui
-
+screenforce-discovery
+screenforce-gateway
+screenforce-config
