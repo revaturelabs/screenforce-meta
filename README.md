@@ -1,7 +1,7 @@
 # screenforce-meta
 Meta repository for Screenforce project. 
 
-[project overview](https://github.com/revaturelabs/screenforce-meta/wiki/Screenforce-Overview)
+[project overview](https://github.com/revaturelabs/screenforce-meta/wiki)
 
 [local deployment instructions](https://github.com/revaturelabs/screenforce-meta/wiki/Configuring-for-Local-Deployment)
 
