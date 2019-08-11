@@ -7,4 +7,6 @@ Meta repository for the Screenforce project.
 
 [contribution guidelines](https://github.com/revaturelabs/screenforce-meta/wiki/Contribution-Guidelines)
 
+[current state](https://github.com/revaturelabs/screenforce-meta/wiki/Current-State)
+
 
