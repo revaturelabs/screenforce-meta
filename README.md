@@ -1,5 +1,4 @@
 # screenforce-meta
-Meta repository for the Screenforce project. 
 
 [project overview](https://github.com/revaturelabs/screenforce-meta/wiki)
 
